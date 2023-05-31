@@ -34,4 +34,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Disclaimer
 
-External Roblox FPS Unlocker is a third-party tool and is not affiliated with or endorsed by Roblox Corporation. Use this tool at your own risk.
+Roblox FPS Unlocker is a third-party tool and is not affiliated with or endorsed by Roblox Corporation. Use this tool at your own risk.
